@@ -1,0 +1,3014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>ATS_XMOD PKG</name>
+			<script></script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName>ATS_XMOD PKG</packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList />
+			<regexCodePropertyList />
+			<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+				<name>ATS</name>
+				<script></script>
+				<triggerType>0</triggerType>
+				<conditonLineDelta>0</conditonLineDelta>
+				<mStayOpen>0</mStayOpen>
+				<mCommand></mCommand>
+				<packageName></packageName>
+				<mFgColor>#ff0000</mFgColor>
+				<mBgColor>#ffff00</mBgColor>
+				<mSoundFile></mSoundFile>
+				<colorTriggerFgColor>#000000</colorTriggerFgColor>
+				<colorTriggerBgColor>#000000</colorTriggerBgColor>
+				<regexCodeList />
+				<regexCodePropertyList />
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>LOGIN</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>loginz-1</name>
+						<script>send("p")
+</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Choose your fate: </string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>loginz-2</name>
+						<script>send("tmpstkura")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Welcome back to A Tempest Season, what is your account name?</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>loginz-3</name>
+						<script>send("tktktk99")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Welcome back Tmpstkura, what is your password?</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Char Var</name>
+						<script>char = matches[2]
+clearWindow("INFO1Win")
+INFO1Win:raise()
+INFO1Win:echo(" \n Login: " ..char.."\n")	
+
+login_data = login_data or {}
+ 
+ if table.contains(login_data, char) then
+   INFO1Win:echo(" Already stored! \n")
+ else 
+   INFO1Win:echo(" Setup for: " ..char.. "\n")
+   table.insert( login_data, { a_name = char, b_class = "blank", c_race = "blank"} )		
+	 table.save(getMudletHomeDir() .. "/login_data.lua", login_data)
+	 
+	 --permGroup(char, "trigger", "Characters")
+   --permGroup(char, "alias",   "Characters")
+	 
+ end
+ 
+  
+	showdb()
+	acctSwitch(char)
+ </script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Logging in as (\w+)!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+				</TriggerGroup>
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>COMMS</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Chat</name>
+						<script>-- menu['CHATStab']:setStyleSheet( [[ background-color: steelblue ]] ) 
+CHATSWin:raise()
+ name = matches[2]
+ msg = matches[3]
+CHATSWin:cecho("\n&lt;orange:black&gt;"..name.. ":&lt;green:black&gt;" ..msg)
+deleteLine()
+clearTabs() 
+menu['CHATStab']:setStyleSheet( [[ background-color: steelblue ]] )
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)
+alert(5) -- flashes icon</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[CHAT\] (\w+) says (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>myChat</name>
+						<script>-- menu['CHATStab']:setStyleSheet( [[ background-color: steelblue ]] )
+CHATSWin:raise()
+name = "You"
+msg = matches[2]
+CHATSWin:cecho("\n&lt;orange:black&gt;"..name.. ":&lt;green:black&gt;" ..msg)
+deleteLine()
+clearTabs() 
+menu['CHATStab']:setStyleSheet( [[ background-color: steelblue ]] )</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[CHAT\] You say (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Reply</name>
+						<script>-- menu['TELLStab']:setStyleSheet( [[ background-color: steelblue ]] )
+TELLSWin:raise()
+name = matches[2]
+msg = matches[3]
+TELLSWin:cecho("\n&lt;red:black&gt;To:&lt;yellow:black&gt;"..name.. ": " ..msg)
+deleteLine()
+clearTabs() 
+menu['TELLStab']:setStyleSheet( [[ background-color: steelblue ]] )</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>You reply to (\w+) (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Join</name>
+						<script>-- menu['ARRIVALStab']:setStyleSheet( [[ background-color: steelblue ]] )
+arvWin:raise()
+name = matches[2]
+arvWin:cecho("\n&lt;orange:black&gt;"..name.. ":&lt;green:black&gt;Joined " )
+deleteLine()
+clearTabs() 
+menu['ARRIVALStab']:setStyleSheet( [[ background-color: steelblue ]] )
+alert(5)</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[ INFO \] (\w+) has joined the world of Eihydia!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Leave</name>
+						<script>arvWin:raise()
+name = matches[2]
+arvWin:cecho("\n&lt;orange:black&gt;"..name.. ":&lt;red:black&gt;Left" )
+deleteLine()
+clearTabs() 
+menu['ARRIVALStab']:setStyleSheet( [[ background-color: steelblue ]] )
+</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[ INFO \] (\w+) has left the world of Eihydia!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>myTells</name>
+						<script>tellWin:raise()
+name = matches[2]
+msg = matches[3]
+deleteLine()
+tellWin:cecho("\n&lt;red:black&gt;to:"..name.. ":&lt;green:black&gt;" ..msg)
+clearTabs() 
+menu['TELLStab']:setStyleSheet( [[ background-color: steelblue ]] )
+
+</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[OOC TELL\] You tell (\w+), (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Tells</name>
+						<script>
+tellWin:raise()
+name = matches[2]
+msg = matches[3]
+tellWin:cecho("\n&lt;orange:black&gt;"..name.. ":&lt;green:black&gt;" ..msg)
+deleteLine()
+clearTabs() 
+menu['TELLStab']:setStyleSheet( [[ background-color: steelblue ]] )
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)
+alert(5)</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>\[OOC TELL\] (\w+) tells you, (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>ARRIVALS</name>
+						<script></script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList />
+						<regexCodePropertyList />
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>Arrivals</name>
+							<script>msg = matches[2]
+time = getTime(true, "hh:mm:ss")
+clearTabs()
+deleteLine()
+
+arvWin:raise()
+arvWin:cecho("\n&lt;orange:black&gt;"..time..":&lt;green:black&gt;"..msg)
+menu['ARRIVALStab']:setStyleSheet( [[ background-color: steelblue ]] )
+send("who")
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)
+
+-- ARVSWin:cecho("&lt;purple&gt;".. "[" .. getTime(true, "h:mm") .. "]" .. line .. "\n\n");</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile>C:/Users/Rick/.config/mudlet/profiles/XMOD SHATT 07b/SOUNDS/Beep-2.wav</mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>\[ARRIVALS\] (.*) has logged on.</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>1</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>Departs</name>
+							<script>msg = matches[2]
+time = getTime(true, "hh:mm:ss")
+arvWin:raise()
+arvWin:cecho("\n&lt;orange:black&gt;"..time..":&lt;red:black&gt;"..msg)
+deleteLine()
+clearTabs() 
+menu['ARRIVALStab']:setStyleSheet( [[ background-color: steelblue ]] )
+send("who")
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)
+
+</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile>C:/Users/Rick/.config/mudlet/profiles/XMOD SHATT 07b/SOUNDS/Beep-2.wav</mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>(\w+) has logged off</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>1</integer>
+							</regexCodePropertyList>
+						</Trigger>
+					</TriggerGroup>
+				</TriggerGroup>
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>Prompt</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="yes" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Prompt2</name>
+						<script>deleteLine()
+hp   = matches[2]
+mhp  = matches[3]
+st   = matches[4]
+mst  = matches[5]
+gld  = matches[6]
+wgt  = matches[7]
+mwgt = matches[8]
+stat = matches[9]
+ar   = matches[10]
+dr   = matches[11]
+rm   = matches[12]
+opp   = matches[13]
+--Gauges
+
+hp_bar:setValue(tonumber(hp), tonumber(mhp), "&lt;center&gt;H: " .. hp .. "/" .. mhp);
+st_bar:setValue(tonumber(st), tonumber(mst), "&lt;center&gt;S: " .. st .. "/" .. mst);
+-- GUI.Mana:setValue(tonumber(ess), tonumber(mess), "&lt;center&gt;E: " .. ess .. "/" .. mess);
+clearWindow("INFO2Win")
+INFO2Win:echo(" \n Carry: "..wgt.."/"..mwgt)
+INFO2Win:echo(" \n Gold:  "..gld)
+INFO2Win:echo(" \n Status:  "..gld)
+INFO2Win:echo(" \n AR:  "..gld)
+INFO2Win:echo(" \n DR:  "..gld)
+INFO2Win:echo(" \n Room:  "..gld)
+INFO2Win:echo(" \n Opponent:  "..gld)
+
+
+
+
+
+
+
+</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>:HP: (\d+)/(\d+) :ST: (\d+)/(\d+) :GLD: (\d+) :WGT: (\d+)/(\d+) :STAT: (.*) :AR: (\d+) :DR: (\d+) :RM:(.*):OPP:(.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+				</TriggerGroup>
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>Characters</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Xiija</name>
+						<script></script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList />
+						<regexCodePropertyList />
+						<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>TRADES</name>
+							<script></script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList />
+							<regexCodePropertyList />
+							<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>forage</name>
+								<script>send("get all")
+send("forage")
+send("l")</script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>0</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList>
+									<string>You are done foraging.</string>
+								</regexCodeList>
+								<regexCodePropertyList>
+									<integer>0</integer>
+								</regexCodePropertyList>
+							</Trigger>
+							<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>tailor cuff</name>
+								<script>send("tailor cuff")
+send("l")
+send("trade tailor")</script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>0</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList>
+									<string>You are done tailoring</string>
+								</regexCodeList>
+								<regexCodePropertyList>
+									<integer>0</integer>
+								</regexCodePropertyList>
+							</Trigger>
+							<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>resource</name>
+								<script>resource = matches[2]
+if( resource ~= oldresource) then
+ playSoundFile( getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]],15 )
+end
+oldresource = resource</script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>0</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList>
+									<string>You have found some (.*).</string>
+								</regexCodeList>
+								<regexCodePropertyList>
+									<integer>1</integer>
+								</regexCodePropertyList>
+							</Trigger>
+							<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>heavy</name>
+								<script>playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 5)</script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>0</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList>
+									<string>Some (\w+) is too heavy.</string>
+								</regexCodeList>
+								<regexCodePropertyList>
+									<integer>1</integer>
+								</regexCodePropertyList>
+							</Trigger>
+							<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>Talk</name>
+								<script></script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>0</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList />
+								<regexCodePropertyList />
+								<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+									<name>talk01</name>
+									<script>echo("\nGOT\n")
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)</script>
+									<triggerType>0</triggerType>
+									<conditonLineDelta>0</conditonLineDelta>
+									<mStayOpen>0</mStayOpen>
+									<mCommand></mCommand>
+									<packageName></packageName>
+									<mFgColor>#ff0000</mFgColor>
+									<mBgColor>#ffff00</mBgColor>
+									<mSoundFile></mSoundFile>
+									<colorTriggerFgColor>#000000</colorTriggerFgColor>
+									<colorTriggerBgColor>#000000</colorTriggerBgColor>
+									<regexCodeList>
+										<string>(.*) says</string>
+										<string> asks you,</string>
+									</regexCodeList>
+									<regexCodePropertyList>
+										<integer>1</integer>
+										<integer>0</integer>
+									</regexCodePropertyList>
+								</Trigger>
+								<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+									<name>emter</name>
+									<script>echo("\nGOT\n")
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 15)</script>
+									<triggerType>0</triggerType>
+									<conditonLineDelta>0</conditonLineDelta>
+									<mStayOpen>0</mStayOpen>
+									<mCommand></mCommand>
+									<packageName></packageName>
+									<mFgColor>#ff0000</mFgColor>
+									<mBgColor>#ffff00</mBgColor>
+									<mSoundFile></mSoundFile>
+									<colorTriggerFgColor>#000000</colorTriggerFgColor>
+									<colorTriggerBgColor>#000000</colorTriggerBgColor>
+									<regexCodeList>
+										<string>(.*) enters</string>
+										<string>(.*) appears</string>
+									</regexCodeList>
+									<regexCodePropertyList>
+										<integer>1</integer>
+										<integer>1</integer>
+									</regexCodePropertyList>
+								</Trigger>
+							</TriggerGroup>
+						</TriggerGroup>
+						<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>Groups</name>
+							<script></script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList />
+							<regexCodePropertyList />
+							<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+								<name>diagGroup</name>
+								<script>deleteLine()
+grouphealth = {}
+-- tempTimer(0.5, [[ send(" ") ]] )</script>
+								<triggerType>0</triggerType>
+								<conditonLineDelta>0</conditonLineDelta>
+								<mStayOpen>10</mStayOpen>
+								<mCommand></mCommand>
+								<packageName></packageName>
+								<mFgColor>#ff0000</mFgColor>
+								<mBgColor>#ffff00</mBgColor>
+								<mSoundFile></mSoundFile>
+								<colorTriggerFgColor>#000000</colorTriggerFgColor>
+								<colorTriggerBgColor>#000000</colorTriggerBgColor>
+								<regexCodeList>
+									<string>Xiija's group:</string>
+								</regexCodeList>
+								<regexCodePropertyList>
+									<integer>0</integer>
+								</regexCodePropertyList>
+								<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+									<name>get info</name>
+									<script>deleteLine()
+name = matches[2]
+hp = matches [3]
+st = matches [4]
+entry = name ..": "..hp.." - "..st
+table.insert(grouphealth, entry)</script>
+									<triggerType>0</triggerType>
+									<conditonLineDelta>0</conditonLineDelta>
+									<mStayOpen>0</mStayOpen>
+									<mCommand></mCommand>
+									<packageName></packageName>
+									<mFgColor>#ff0000</mFgColor>
+									<mBgColor>#ffff00</mBgColor>
+									<mSoundFile></mSoundFile>
+									<colorTriggerFgColor>#000000</colorTriggerFgColor>
+									<colorTriggerBgColor>#000000</colorTriggerBgColor>
+									<regexCodeList>
+										<string>(\w+) is(.*) and is(.*). </string>
+									</regexCodeList>
+									<regexCodePropertyList>
+										<integer>1</integer>
+									</regexCodePropertyList>
+								</Trigger>
+								<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+									<name>close</name>
+									<script>deleteLine()
+setTriggerStayOpen("diagGroup",0)
+INFO3Win:raise()
+clearWindow("INFO3Win")
+clearTabs2()
+menu2['INFO3tab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+INFO3Win:cecho("\n&lt;orange:black&gt;"..table.concat(grouphealth,"\n "))
+
+-- return isPrompt()</script>
+									<triggerType>0</triggerType>
+									<conditonLineDelta>0</conditonLineDelta>
+									<mStayOpen>0</mStayOpen>
+									<mCommand></mCommand>
+									<packageName></packageName>
+									<mFgColor>#ff0000</mFgColor>
+									<mBgColor>#ffff00</mBgColor>
+									<mSoundFile></mSoundFile>
+									<colorTriggerFgColor>#000000</colorTriggerFgColor>
+									<colorTriggerBgColor>#000000</colorTriggerBgColor>
+									<regexCodeList>
+										<string>You say, "Endgate."</string>
+									</regexCodeList>
+									<regexCodePropertyList>
+										<integer>0</integer>
+									</regexCodePropertyList>
+								</Trigger>
+							</Trigger>
+						</TriggerGroup>
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>fall</name>
+							<script>send("stand")
+send("fly")</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>You attempt to launch into flight, but stumble and fall down.</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>falldown</name>
+							<script>send("stand")</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>You dive out of the air, but tumble haphazardly and crash to the ground.</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>poisoned</name>
+							<script>echo("POISONED")
+playSoundFile(getMudletHomeDir().. [[/SOUNDS/Beep-2.wav]], 50)</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>You cringe as the poison courses through your blood.</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>follow</name>
+							<script>person = matches[2]
+send ("follow"..person</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>(\w)e requests you to join his group </string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>1</integer>
+							</regexCodePropertyList>
+						</Trigger>
+					</TriggerGroup>
+					<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>Maumau</name>
+						<script></script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList />
+						<regexCodePropertyList />
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="yes" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>Prompt</name>
+							<script>deleteLine()
+hp   = matches[2]
+mhp  = matches[3]
+st   = matches[4]
+mst  = matches[5]
+ess  = matches[6]
+mess = matches[7]
+--Gauges
+
+hp_bar:setValue(tonumber(hp), tonumber(mhp), "&lt;center&gt;H: " .. hp .. "/" .. mhp);
+st_bar:setValue(tonumber(st), tonumber(mst), "&lt;center&gt;S: " .. st .. "/" .. mst);
+-- GUI.Mana:setValue(tonumber(ess), tonumber(mess), "&lt;center&gt;E: " .. ess .. "/" .. mess);
+clearWindow("INFO2Win")
+INFO2Win:echo(" \n Carry: "..wgt.."/"..mwgt)
+INFO2Win:echo(" \n Gold:  "..gld)
+INFO2Win:echo(" \n Status:  "..gld)
+INFO2Win:echo(" \n AR:  "..gld)
+INFO2Win:echo(" \n DR:  "..gld)
+INFO2Win:echo(" \n Room:  "..gld)
+INFO2Win:echo(" \n Opponent:  "..gld)</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>H: (\d+)/(\d+) S: (\d+)/(\d+) E: (\d+)/(\d+)</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>1</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>test1</name>
+							<script>echo( "\ngot PROMPT")</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>H: (\d+)/(\d+) S: (\d+)/(\d+) E: (\d+)/(\d+)</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>1</integer>
+							</regexCodePropertyList>
+						</Trigger>
+					</TriggerGroup>
+				</TriggerGroup>
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>TEST</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>sit test</name>
+						<script>selectCurrentLine()
+bg("magenta")
+-- used with alias ft ... a feedTrigger
+echo("\ngotit")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>You sit yourself down.</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>cackle test</name>
+						<script>selectCurrentLine()
+bg("magenta")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>you cackles.</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>color vars</name>
+						<script> -- you have 10  blunt  weapons
+ 
+ number_of_weapons = matches[2]
+ status_of_weapons = matches[3]
+ 
+ selectCaptureGroup( 2 )
+ setFgColor( 255,0,0 )
+
+ selectCaptureGroup( 3 )
+ setFgColor( 0,0,255 )</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>You have (\d+) (\w+) weapons</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>highlight test</name>
+						<script>txt = matches{2}
+hi = "weapons"
+setBgColorAll(txt,hi, 255,50,50)
+
+-- Create a trigger to highlight the word "pixie" for us
+permSubstringTrigger("Highlight stuff", "General", {"pixie"},
+[[selectString(line, 1) bg("yellow") resetFormat()]])
+
+-- Or another trigger to highlight several different things
+permSubstringTrigger("Highlight stuff", "General", {"pixie", "cat", "dog", "rabbit"},
+[[selectString(line, 1) fg ("blue") bg("yellow") resetFormat()]])</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>(.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="yes" isColorizerTrigger="yes" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>hilite2</name>
+						<script>--gems = matches[2]
+--selectCaptureGroup( 2 )
+--setFgColor( 255,0,0 )</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#60ffff</mFgColor>
+						<mBgColor>#070700</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>moon|sun|star</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>idle</name>
+						<script>send("l")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>If you don't do something, you will be logged out in 10 minutes!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>sysevent check</name>
+						<script>raiseEvent("my_event", "Hello world!")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Hello world!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>RangerMove</name>
+						<script></script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>You retreat (.*) units!</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="yes" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>pmt1</name>
+						<script>ass  = matches[2]
+
+INFO2Win:echo(" \n Got:  "..ass)
+echo("wtf\n...ass")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>Assfuk (.*)</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>fukyu</name>
+						<script>echo("\nwtf\n...works?")</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>"Fuk</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>0</integer>
+						</regexCodePropertyList>
+					</Trigger>
+					<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>getPrompt</name>
+						<script></script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList />
+						<regexCodePropertyList />
+						<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>get prompt</name>
+							<script>-- Gpt :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W 
+-- Gpt :HP: 123/456 :ST: 78/99 :GLD: 777 :WGT: 10/100
+echo("\nwtf GPT\n...works?")
+z = line
+echo("\ngot: " ..z)
+-- :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W 
+-- ([abc])
+
+x = string.gsub(z, "(%d+)", "(\\d+)")
+--  x = string.gsub(z, "(%%[abc])", "(\\d+)")
+ echo("\n NEW: " ..x)
+ permRegexTrigger("AutoPrompt", "AutoP", {x},
+  [[AutoHP = tonumber(matches[2]);
+	 AutoMHP = tonumber(matches[3]);
+	 disableTrigger("getPrompt");
+	  echo("\nHP: " ..AutoHP.."/"..AutoMHP)
+]]
+)
+ -- add click link , check table for name, etc
+ 
+ </script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>Gpt :HP: 123/456 :ST: 78/99 :GLD: 777 :WGT: 10/100</string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>p2</name>
+							<script>-- Gpt :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W 
+-- Gpt :HP: 123/456 :ST: 78/99 :GLD: 777 :WGT: 10/100
+echo("\nwtf GPT\n...works?")
+z = line
+echo("\ngot: " ..z)
+-- :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W 
+-- ([abc])
+
+--x = string.gsub(z, "(%d+)", "(\\d+)")
+x = string.gsub(z, "(%%[hHmMgwW])", "(\\d+)")
+ echo("\n NEW: " ..x)
+ permRegexTrigger("AutoPrompt", "AutoP", {x},
+  [[AutoHP = tonumber(matches[2]);
+	 AutoMHP = tonumber(matches[3]);
+	 disableTrigger("getPrompt");
+	  echo("\nHP: " ..AutoHP.."/"..AutoMHP)
+]]
+)
+ -- add click link , check table for name, etc</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>Gpt :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W </string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+						<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="yes" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+							<name>p3</name>
+							<script>-- Gpt :HP: %h/%H :ST: %m/%M :GLD: %g :WGT: %w/%W
+echo("\nwtf GPT\n...works?")</script>
+							<triggerType>0</triggerType>
+							<conditonLineDelta>0</conditonLineDelta>
+							<mStayOpen>0</mStayOpen>
+							<mCommand></mCommand>
+							<packageName></packageName>
+							<mFgColor>#ff0000</mFgColor>
+							<mBgColor>#ffff00</mBgColor>
+							<mSoundFile></mSoundFile>
+							<colorTriggerFgColor>#000000</colorTriggerFgColor>
+							<colorTriggerBgColor>#000000</colorTriggerBgColor>
+							<regexCodeList>
+								<string>Gpt :HP: </string>
+							</regexCodeList>
+							<regexCodePropertyList>
+								<integer>0</integer>
+							</regexCodePropertyList>
+						</Trigger>
+					</TriggerGroup>
+				</TriggerGroup>
+				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+					<name>AutoP</name>
+					<script></script>
+					<triggerType>0</triggerType>
+					<conditonLineDelta>0</conditonLineDelta>
+					<mStayOpen>0</mStayOpen>
+					<mCommand></mCommand>
+					<packageName></packageName>
+					<mFgColor>#ff0000</mFgColor>
+					<mBgColor>#ffff00</mBgColor>
+					<mSoundFile></mSoundFile>
+					<colorTriggerFgColor>#000000</colorTriggerFgColor>
+					<colorTriggerBgColor>#000000</colorTriggerBgColor>
+					<regexCodeList />
+					<regexCodePropertyList />
+					<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+						<name>AutoPrompt</name>
+						<script>Auto_HP = tonumber(matches[2]);
+	 Auto_MHP = tonumber(matches[3]);
+	 disableTrigger("getPrompt");
+	  echo("\nHP: " ..AutoHP.."/"..AutoMHP)
+</script>
+						<triggerType>0</triggerType>
+						<conditonLineDelta>0</conditonLineDelta>
+						<mStayOpen>0</mStayOpen>
+						<mCommand></mCommand>
+						<packageName></packageName>
+						<mFgColor>#ff0000</mFgColor>
+						<mBgColor>#ffff00</mBgColor>
+						<mSoundFile></mSoundFile>
+						<colorTriggerFgColor>#000000</colorTriggerFgColor>
+						<colorTriggerBgColor>#000000</colorTriggerBgColor>
+						<regexCodeList>
+							<string>You say, "Gpt :HP: (\d+)/(\d+) :ST: (\d+)/(\d+) :GLD: (\d+) :WGT: (\d+)/(\d+)."</string>
+						</regexCodeList>
+						<regexCodePropertyList>
+							<integer>1</integer>
+						</regexCodePropertyList>
+					</Trigger>
+				</TriggerGroup>
+			</TriggerGroup>
+		</TriggerGroup>
+	</TriggerPackage>
+	<TimerPackage />
+	<AliasPackage>
+		<AliasGroup isActive="yes" isFolder="yes">
+			<name>ATS_XMOD PKG</name>
+			<script></script>
+			<command></command>
+			<packageName>ATS_XMOD PKG</packageName>
+			<regex></regex>
+			<AliasGroup isActive="yes" isFolder="yes">
+				<name>ATS</name>
+				<script></script>
+				<command></command>
+				<packageName></packageName>
+				<regex></regex>
+				<AliasGroup isActive="yes" isFolder="yes">
+					<name>Characters</name>
+					<script></script>
+					<command></command>
+					<packageName></packageName>
+					<regex></regex>
+					<AliasGroup isActive="no" isFolder="yes">
+						<name>Xiija</name>
+						<script></script>
+						<command></command>
+						<packageName></packageName>
+						<regex></regex>
+						<AliasGroup isActive="yes" isFolder="yes">
+							<name>MAIN</name>
+							<script></script>
+							<command></command>
+							<packageName></packageName>
+							<regex></regex>
+							<Alias isActive="yes" isFolder="no">
+								<name>land</name>
+								<script>send("land")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^ll$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>fly</name>
+								<script>send("fly")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^ff$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>get all</name>
+								<script>send("get all")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^gg$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>bundle</name>
+								<script>item = matches[2]
+send ("bundle all " ..item)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^bb (.*)</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>home</name>
+								<script>send("pray divinepath Ancient Cypress Canopy")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^dph$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>Divine path</name>
+								<script>dest = matches[2]
+send("pray divinepath "..dest)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^dp (.*)</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>tpt</name>
+								<script>send("pray div depot")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^tpt$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>tp</name>
+								<script>dest = matches[2]
+send("pray div "..dest)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^tp (.*)$</regex>
+							</Alias>
+						</AliasGroup>
+						<AliasGroup isActive="yes" isFolder="yes">
+							<name>Groups</name>
+							<script></script>
+							<command></command>
+							<packageName></packageName>
+							<regex></regex>
+							<Alias isActive="yes" isFolder="no">
+								<name>diag all</name>
+								<script>send("diag")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^dd$</regex>
+							</Alias>
+						</AliasGroup>
+						<AliasGroup isActive="yes" isFolder="yes">
+							<name>Priest</name>
+							<script></script>
+							<command></command>
+							<packageName></packageName>
+							<regex></regex>
+							<Alias isActive="yes" isFolder="no">
+								<name>hhm</name>
+								<script>send("pray heal me")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>hhm</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>hs</name>
+								<script>trg = matches[2]
+send("pray holystrike "..trg)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^hs (.*)$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>hsh</name>
+								<script>send("pray holyshield")</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^hsh$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>cp</name>
+								<script>trg = matches[2]
+send("pray removepoison "..trg)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^cp (.*)$</regex>
+							</Alias>
+							<Alias isActive="yes" isFolder="no">
+								<name>plague</name>
+								<script>trg = matches[2]
+echo("trg is: "..trg)
+send("pray infl "..trg)</script>
+								<command></command>
+								<packageName></packageName>
+								<regex>^pl (.*)$</regex>
+							</Alias>
+						</AliasGroup>
+					</AliasGroup>
+					<AliasGroup isActive="yes" isFolder="yes">
+						<name>Maumau</name>
+						<script></script>
+						<command></command>
+						<packageName></packageName>
+						<regex></regex>
+					</AliasGroup>
+				</AliasGroup>
+				<AliasGroup isActive="yes" isFolder="yes">
+					<name>TESTS</name>
+					<script></script>
+					<command></command>
+					<packageName></packageName>
+					<regex></regex>
+					<AliasGroup isActive="yes" isFolder="yes">
+						<name>T1</name>
+						<script></script>
+						<command></command>
+						<packageName></packageName>
+						<regex></regex>
+						<Alias isActive="yes" isFolder="no">
+							<name>get home directory</name>
+							<script>home_path = getMudletHomeDir():gsub([[\]], [[/]])  
+echo("\nHome Directory: "..home_path.."\n")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>homedir</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>lay01</name>
+							<script>
+saveWindowLayout()
+loadWindowLayout()</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>lay01</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>beep2</name>
+							<script>echo("sound test")
+
+home_path = getMudletHomeDir():gsub([[\]], [[/]])
+
+playSoundFile(home_path.."/SOUNDS/Beep-2.wav" )</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>beep2</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>web</name>
+							<script>openWebPage("http://google.com")
+-- openUrl("http://google.com")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>web</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>ft</name>
+							<script>feedTriggers("\nYou sit yourself down.\n")
+send("\n")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>ft</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>file1</name>
+							<script>home_path = getMudletHomeDir():gsub([[\]], [[/]])
+
+-- This example will work on both Windows and Linux.
+if io.exists(home_path.."/IMGS/shield.png") then
+  echo("This file exists!")
+else
+  echo("\nThis file doesn't exist.")
+end</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>file1</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>file2</name>
+							<script>
+home_path = getMudletHomeDir():gsub([[\]], [[/]])
+
+-- fileInfo = lfs.attributes(home_path)
+fileInfo = lfs.attributes(home_path.."/IMGS/shield.png")
+if fileInfo then
+    if fileInfo.mode == "directory" then
+        echo("\nPath points to a directory.")
+    elseif fileInfo.mode == "file" then
+        echo("\nPath points to a file.")
+    else
+        echo("\nPath points to: "..fileInfo.mode)
+    end
+    display(fileInfo) -- to see the detailed information
+else
+    echo("\nThe path is invalid (file/directory doesn't exist)")
+end</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>file2</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>t1</name>
+							<script>time = getTime(true, "hh:mm:ss")
+echo( "\nTIME: " ..time.."\n")
+
+--Echo the timestamp of the current line in a trigger:
+--echo(getTimestamp(getLineCount()))</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>t1</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>disp</name>
+							<script>myTable = {} -- create an empty lua table
+myTable.foo = "Hello there" -- add a text
+myTable.bar = 23 -- add a number
+myTable.ubar = function () echo("OK") end -- add more ( func stuff wont display on table)
+display( myTable ) -- take a look inside the table</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>disp</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>epop</name>
+							<script>-- doesnt work
+ echoPopup("main","CLICKME", {[[echo "sleep"]], [[echo "sit"]], [[echo "stand"]]}, {"sleepz", "sitz", "standz"})
+ 
+-- Create some text as a clickable with a popup menu:
+hinsertPopup("#ff0000activities#r to do", {[[send "sleep"]], [[send "sit"]], [[send "stand"]]}, {"sleep", "sit", "stand"}, true)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>epop</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>atkd</name>
+							<script>setBackgroundColor("messageBox", 255, 204, 0, 0)
+echo("messageBox","")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>atkd</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>atk</name>
+							<script>local width, height = getMainWindowSize()
+createLabel("messageBox",(width/2)-500,(height/2)-100,150,150,1)
+resizeWindow("messageBox",500,70)
+moveWindow("messageBox", (width/2)-500,(height/2)-100 )
+setBackgroundColor("messageBox", 255, 204, 0, 200)
+echo("messageBox", [[&lt;p style="font-size:35px"&gt;&lt;b&gt;&lt;center&gt;&lt;font color="red"&gt;You are under attack!&lt;/font&gt;&lt;/center&gt;&lt;/b&gt;&lt;/p&gt;]])
+ttsSpeak("You are under attack!")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>atk</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>c2</name>
+							<script>cecho("INFO2", "&lt;bisque:BlueViolet&gt;Lastly, this is with both a foreground and a background.\n")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>c2</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>dlink</name>
+							<script> -- c = color , d = digit (rgb) , h = hex
+ 
+ decho("info2", "&lt;250,50,0:0,155,0&gt;test ish?\n")
+ hecho("info1","#ca0004 0 black!")
+ -- send to tell .. click and send to info2
+ dechoLink("tellWin","\n&lt;50,50,0:0,155,0&gt;PRESS me!\n", [[info2:echo("\nhi")]], "This is a tooltip", true)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>dlk</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>tbl test</name>
+							<script> -- https://wiki.mudlet.org/w/Manual:Table_Functions
+ testTable = testTable or {}
+ 
+     --it will inserts what inside the variable of matches[2] into at the end of table of 'test_db_name'. 
+--table.insert(test_db_name, matches[2])
+     --it will inserts other thing at the first position of this table.
+--table.insert(test_db_name, 1, "jgcampbell300")
+ 
+ testTable = {1,2,"hi","blah",}
+ testString = table.concat(testTable, "\n ")
+ clearWindow("info1")
+ info1:echo(" \n Inventory: \n "..testString)	
+ 
+</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>tbl</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>premtrig test</name>
+							<script>echo("fukfuk")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>ptz</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>newwin</name>
+							<script>openUserWindow("My floating window")
+cecho("My floating window", "&lt;red&gt;hello &lt;blue&gt;bob!")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>newwin</regex>
+						</Alias>
+					</AliasGroup>
+					<AliasGroup isActive="yes" isFolder="yes">
+						<name>T2</name>
+						<script></script>
+						<command></command>
+						<packageName></packageName>
+						<regex></regex>
+						<Alias isActive="yes" isFolder="no">
+							<name>echoline</name>
+							<script>
+
+
+cecho([[
+ ██╗    ██╗     ██╗███╗   ██╗███████╗     █████╗ ██████╗ ████████╗
+███║    ██║     ██║████╗  ██║██╔════╝    ██╔══██╗██╔══██╗╚══██╔══╝
+╚██║    ██║     ██║██╔██╗ ██║█████╗      ███████║██████╔╝   ██║
+ ██║    ██║     ██║██║╚██╗██║██╔══╝      ██╔══██║██╔══██╗   ██║
+ ██║    ███████╗██║██║ ╚████║███████╗    ██║  ██║██║  ██║   ██║
+ ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+
+]])
+
+
+cecho([[
+ ▄▄▄·     ▄▄▄▄▄▄▄ • ▌ ▄ ·. ▄▄▄▄▄▄ .▄▄ ▄▄▄▄▄    .▄▄ ·▄▄▄ .▄▄▄·.▄▄ ·      ▐ ▄ 
+▐█ ▀█     •██ ▀▄.▀·██ ▐███▐█ ▄▀▄.▀▐█ ▀•██      ▐█ ▀.▀▄.▀▐█ ▀█▐█ ▀.▪    •█▌▐█
+▄█▀▀█      ▐█.▐▀▀▪▐█ ▌▐▌▐█·██▀▐▀▀▪▄▀▀▀█▐█.▪    ▄▀▀▀█▐▀▀▪▄█▀▀█▄▀▀▀█▄▄█▀▄▐█▐▐▌
+▐█ ▪▐▌     ▐█▌▐█▄▄██ ██▌▐█▐█▪·▐█▄▄▐█▄▪▐▐█▌·    ▐█▄▪▐▐█▄▄▐█ ▪▐▐█▄▪▐▐█▌.▐██▐█▌
+ ▀  ▀      ▀▀▀ ▀▀▀▀▀  █▪▀▀.▀   ▀▀▀ ▀▀▀▀▀▀▀      ▀▀▀▀ ▀▀▀ ▀  ▀ ▀▀▀▀ ▀█▄▀▀▀ █▪
+
+]])</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>echoline</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>pgn</name>
+							<script>echo("wtf\n")
+tempTimer( 4, [[ echo("wtf3\n") ]])
+echo("wtf2\n")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>pgn</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>tlog</name>
+							<script>echo("testing...")
+INFO1Win:echo(" \n Login: " ..char.."\n")	</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>tlog</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>tempt</name>
+							<script> echo("one")
+ tempTimer(1, [[ 
+	   echo("\ntwo");
+		  echo("\ntrying...");
+		 echo("\nthreee")
+		
+	 ]] )</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>tempt</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>winsize</name>
+							<script>global_width, global_height = getMainWindowSize()
+WindowWidth, WindowHeight = getMainWindowSize()
+echo("\n \nYour Window width is "..WindowWidth.."\n and your window height is "..WindowHeight.."\n \n")
+echo("\nYour global width is "..global_width.."\n and your global height is "..global_height)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>winsize</regex>
+						</Alias>
+					</AliasGroup>
+					<AliasGroup isActive="yes" isFolder="yes">
+						<name>TALKS</name>
+						<script></script>
+						<command></command>
+						<packageName></packageName>
+						<regex></regex>
+						<Alias isActive="yes" isFolder="no">
+							<name>talkp</name>
+							<script>-- talk deeply first, after 2 seconds talk highly, after 4 seconds normally again
+ttsSetPitch(-1)
+ttsQueue("Deep voice")
+
+tempTimer(2, function()
+  ttsSetPitch(1)
+  ttsQueue("High voice")
+end)
+
+tempTimer(4, function()
+  ttsSetPitch(0)
+  ttsQueue("Normal voice")
+end)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>^talkp$</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>taksv</name>
+							<script>ttsSetVoiceByIndex(1)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>talksv</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>talkgv</name>
+							<script>display(ttsGetVoices())
+
+
+-- 0 "Microsoft Zira Desktop",
+-- 1 "Microsoft Hazel Desktop",
+-- 2 "Microsoft David Desktop"</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>talkgv</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>talk</name>
+							<script>ttsClearQueue()
+ttsSpeak("Wow you have been here all day!")</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>^talk$</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>talkr</name>
+							<script>-- talk slowly first, after 2 seconds talk quickly, after 4 seconds normally again
+ttsSetRate(-1)
+ttsQueue("Slow voice")
+
+tempTimer(2, function ()
+  ttsSetRate(1)
+  ttsQueue("Quick voice")
+end)
+
+tempTimer(4, function ()
+  ttsSetRate(0)
+ ttsQueue("Normal voice")
+end)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>^talkr$</regex>
+						</Alias>
+						<Alias isActive="yes" isFolder="no">
+							<name>talkvol</name>
+							<script>-- talk quietly first, after 2 seconds talk a bit louder, after 4 seconds normally again
+ttsSetVolume(0.2)
+ttsSpeak("Quiet voice")
+
+tempTimer(2, function ()
+  ttsSetVolume(0.5)
+  ttsSpeak("Low voice")
+end)
+
+tempTimer(4, function () 
+  ttsSetVolume(1)
+  ttsSpeak("Normal voice")
+end)</script>
+							<command></command>
+							<packageName></packageName>
+							<regex>^talkvol$</regex>
+						</Alias>
+					</AliasGroup>
+				</AliasGroup>
+				<AliasGroup isActive="yes" isFolder="yes">
+					<name>Main</name>
+					<script></script>
+					<command></command>
+					<packageName></packageName>
+					<regex></regex>
+					<Alias isActive="yes" isFolder="no">
+						<name>chat</name>
+						<script>chatz = matches[2] 
+send(chat ..chatz)</script>
+						<command></command>
+						<packageName></packageName>
+						<regex>cx (.*)</regex>
+					</Alias>
+					<Alias isActive="yes" isFolder="no">
+						<name>cx</name>
+						<script>msg = matches[2]
+send("chat " ..msg)</script>
+						<command></command>
+						<packageName></packageName>
+						<regex>cx (.*)</regex>
+					</Alias>
+				</AliasGroup>
+			</AliasGroup>
+		</AliasGroup>
+	</AliasPackage>
+	<ActionPackage>
+		<ActionGroup isActive="yes" isFolder="yes" isPushButton="no" isFlatButton="no" useCustomLayout="no">
+			<name>ATS_XMOD PKG</name>
+			<packageName>ATS_XMOD PKG</packageName>
+			<script></script>
+			<css></css>
+			<commandButtonUp></commandButtonUp>
+			<commandButtonDown></commandButtonDown>
+			<icon></icon>
+			<orientation>0</orientation>
+			<location>0</location>
+			<posX>0</posX>
+			<posY>0</posY>
+			<mButtonState>1</mButtonState>
+			<sizeX>0</sizeX>
+			<sizeY>0</sizeY>
+			<buttonColumn>1</buttonColumn>
+			<buttonRotation>0</buttonRotation>
+			<buttonColor>#ffffff</buttonColor>
+			<ActionGroup isActive="yes" isFolder="yes" isPushButton="no" isFlatButton="no" useCustomLayout="no">
+				<name>ButnBar</name>
+				<packageName></packageName>
+				<script></script>
+				<css></css>
+				<commandButtonUp></commandButtonUp>
+				<commandButtonDown></commandButtonDown>
+				<icon></icon>
+				<orientation>0</orientation>
+				<location>0</location>
+				<posX>0</posX>
+				<posY>0</posY>
+				<mButtonState>1</mButtonState>
+				<sizeX>0</sizeX>
+				<sizeY>0</sizeY>
+				<buttonColumn>1</buttonColumn>
+				<buttonRotation>0</buttonRotation>
+				<buttonColor>#ffffff</buttonColor>
+			</ActionGroup>
+		</ActionGroup>
+	</ActionPackage>
+	<ScriptPackage>
+		<ScriptGroup isActive="yes" isFolder="yes">
+			<name>ATS_XMOD PKG</name>
+			<packageName>ATS_XMOD PKG</packageName>
+			<script></script>
+			<eventHandlerList />
+			<ScriptGroup isActive="yes" isFolder="yes">
+				<name>GUI</name>
+				<packageName></packageName>
+				<script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external scripts --
+-------------------------------------------------
+</script>
+				<eventHandlerList />
+				<Script isActive="yes" isFolder="no">
+					<name>Main border</name>
+					<packageName></packageName>
+					<script>local w,h = getMainWindowSize()
+setBorderTop(h/55) 
+setBorderBottom(h/10) 
+setBorderLeft(w/28)
+setBorderRight(w/2.68)
+setBorderColor(60, 60, 60)</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Containers</name>
+					<packageName></packageName>
+					<script>right_container = Geyser.Label:new({
+  name = "right_container",
+  x = "63.5%" , y = "0%",                    
+  width = "90%", height="100%",     
+})
+ setBackgroundImage("right_container", getMudletHomeDir().."/IMGS/rightbkg-10.png");
+-- ---------------------------------
+
+left_container = Geyser.Label:new({
+  name = "left_container",
+  x = "0%" , y = "0%",                    
+  width = "3%", height="100%",     
+})
+setBackgroundImage("left_container", getMudletHomeDir().."/IMGS/lftbkg-02.png");
+
+
+-- ---------------------------------
+bottom_container = Geyser.Label:new({
+  name = "bottom_container",
+  x = "3.75%" , y = "91%",                    
+  width = "58.0%", height="9%",     
+})
+--setBackgroundColor("bottom_container",65,55,65,200)
+setBackgroundImage("bottom_container", getMudletHomeDir().."/IMGS/gui-buttons-02c.png");
+-- label container for buttons
+
+--[[
+GUI_Bottom = Geyser.Label:new({
+  name = "GUI_Bottom",
+  x = "0%", y = "0%",
+  width = "100%",
+  height = "50%",	
+  color = "black"
+},bottom_container)
+--]]
+
+-- ===================================
+
+
+right_container_top = Geyser.Label:new({
+  name = "right_container_top",
+  x = "3%", y = "2%",                     
+   width = "35%",
+	 height="49%", 
+}, right_container)             
+
+right_container_bottom = Geyser.Label:new({
+  name = "right_container_bottom",
+  x = "3%", y = "52%",                
+   width = "35%",
+	 height="45%",
+}, right_container)
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Footer Icons</name>
+					<packageName></packageName>
+					<script>GUI_Footer = Geyser.HBox:new({
+  name = "GUI_Footer",
+  x = "0.5%", y = "2%",
+  width = "100%",
+  height = "82%",
+},bottom_container)
+
+
+home_path = getMudletHomeDir():gsub([[\]], [[/]])
+
+-- ======================
+btn = btn or {
+state = {"ON","OFF"},
+}
+btn.curr = btn.curr or btn.state[2] -- OFF
+GUI = GUI or {}
+
+-- ---------------------------
+
+for i = 1,12 do
+GUI["Icon_"..i] = Geyser.Label:new({
+name = "GUI.Icon_"..i,
+},GUI_Footer)
+
+ GUI["Icon_"..i]:setStyleSheet([[
+  color: cyan;
+  background-color: rgba(0,0,0,0%);
+  border: 3px solid rgba(0,0,0,100%); 
+	border-image:  	none 100% 1 0 stretch;
+	
+  ]])	
+ 
+ GUI["Icon_"..i]:setClickCallback("on_click", GUI["Icon_"..i] )
+ GUI["Icon_"..i]:setOnEnter("onenter", GUI["Icon_"..i])
+ GUI["Icon_"..i]:setOnLeave("onleave", GUI["Icon_"..i])
+ --GUI["Icon_"..i].state = "OFF"
+end
+-- ==========================
+setIcons()
+bkgcol = "black"
+txtcol = "cyan"
+
+
+function on_click( icon )
+-- echo("\n" ..icon)
+	
+		
+	if icon.name == "GUI.Icon_1" then			
+	echo("\n" ..icon.." all others off...")
+	
+	elseif icon.name == "GUI.Icon_2" then	
+
+	elseif icon.name == "GUI.Icon_13" then	
+	
+	elseif icon == "GUI.Icon_4" then	
+
+	elseif icon.name == "GUI.Icon_5" then	
+	
+	elseif icon.name == "GUI.Icon_6" then	
+
+	elseif icon.name == "GUI.Icon_7" then	
+	
+	elseif icon.name == "GUI.Icon_8" then	
+
+	elseif icon.name == "GUI.Icon_9" then	
+	 expandAlias("tpt") 	
+	-- =============================================
+	
+	elseif icon.name == "GUI.Icon_10" then	
+	toggle = not toggle 
+	
+	icon.state = toggle
+	state = tostring(icon.state)
+		  if toggle then
+	      echo("\nDisabling Trades")	   
+		    disableTrigger("TRADES")		
+				--icon:setFgColor( 255, 165, 0) 
+			  icon:setFgColor( "orange") 
+			else
+		  	echo("\nEnabling Trades")	
+		  	enableTrigger("TRADES")	
+			 -- icon:setFgColor( 0,255,255)
+		    icon:setFgColor( "cyan") 
+	    end
+			
+-- ====================================================
+
+	elseif icon.name == "GUI.Icon_11" then	  
+  	 echo("    do another alias here")
+  	 --send( [[homedir ]] )
+  	 expandAlias("homedir") 	
+  	 -- you can clear a window each time too!
+  	 clearWindow("info1")
+  	 info1:echo(" \n Inventory: from a variable here?")	
+		 
+	elseif icon.name == "GUI.Icon_12" then		
+  	send("pray divinepath Ancient Cypress Canopy")
+  	--info2:echo(" \n Posture: from a button?")
+	end
+end -- end of function
+-- -----------------------
+
+
+
+function onenter(icon)
+  icon:setStyleSheet(  [[	
+  background-color: black;
+  border: 3px solid rgba(0,0,0,100%); 	
+	border-image:  	none 100% 1 0 stretch;
+	 ]] )
+ end
+
+function onleave(icon)
+   if( icon.state == true) then	  
+	   bkgcol = "dimgrey"
+		else		 
+	    bkgcol = "rgba(0,0,0,0%)"
+		end
+		
+  icon:setStyleSheet(  [[
+  background-color: ]]..bkgcol.. [[ ;
+ border: 3px solid rgba(0,0,0,100%); 	
+	border-image:  	none 100% 1 0 stretch;
+	 ]] )
+	
+end
+
+-- ----------------------------
+
+
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Tabs</name>
+					<packageName></packageName>
+					<script>menu = menu or {
+  tabs   = {"CHATS","TELLS","ARRIVALS"},
+  colorR = "rgb(75,0,130)",
+  colorG = "rgb(100,150,100)",
+	colorB = "rgb(100,100,150)",
+	color4 = "rgb(60,60,60)",
+  width  = "20%",
+  height = "40%",
+}
+-- menu.current empty for now ( till called?)
+menu.current = menu.current or menu.tabs[1]
+menu.old = menu.old or menu.tabs[1]
+
+-- ----------------------------
+cTab = cTab or menu.tabs[1]
+tTab = tTab or menu.tabs[2]
+aTab = aTab or menu.tabs[3]
+
+
+
+-- --------- header for tabs--------------
+
+menu.header = Geyser.HBox:new({
+  name = "menu.header",
+  x = "0%", y = "0%",
+  width = "100%",
+  height = "10%",	
+},right_container_top)
+
+
+-- ---------Footer for content-----------------
+
+menu.footer = Geyser.Label:new({
+  name = "menu.footer",
+  x = "0%", y = "10%",
+  width = "100%",
+  height = "91.5%",
+},right_container_top)
+-- --------------------
+
+menu.footer:setStyleSheet([[
+  background-color: ]]..menu.colorR..[[;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+]])
+-- ---------------------------------
+
+
+
+-- ----------------------------
+-- ========================================================
+
+for k,v in pairs(menu.tabs) do
+
+ menu[v.."tab"] = Geyser.Label:new({
+    name = "menu."..v.."tab",		
+  },menu.header)
+-- ---------------------------
+
+ menu[v.."tab"]:setStyleSheet([[
+    background-color: ]]..menu.color4..[[;    
+    margin-right: 1px;
+    margin-left: 1px;
+  ]])
+-- --------------------	
+-- give tabs text and callback
+
+  menu[v.."tab"]:echo("&lt;center&gt;"..v)
+	menu[v.."tab"]:setClickCallback("menu.click",v)		
+  menu[v.."tab"]:setOnEnter("menu.onenter",v)
+  menu[v.."tab"]:setOnLeave("menu.onleave",v)
+	
+	-- --------- BACKGROUNDS---------------------
+	
+
+ -- menu[v]:hide()
+
+end
+-- =================================	
+
+-- chat tab set to green to begin with
+  menu[menu.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] )
+	
+	-- ==============================================
+		
+function menu.click(tab) 
+  clearTabs()
+ 	menu.current = tab 	
+	
+	if( tab == "CHATS") then
+	 chatWin:raise()		 
+	 menu['CHATStab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	if( tab == "TELLS") then
+	 tellWin:raise()
+	  menu['TELLStab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	if( tab == "ARRIVALS") then
+	 arvWin:raise()
+	  menu['ARRIVALStab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	-- ----------------------------
+
+--	menu.old = menu.current		
+--	menu[menu.old..'tab']:setStyleSheet( [[ background-color: ]]..menu.color4..[[ ]] )	
+--  menu.current = tab 		
+	
+	-- echo(" got "..tab)
+--	menu[menu.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] ) 
+--  menu[menu.current]:show()
+
+end
+-- ------------------------
+
+
+function menu.onenter(tab)
+ menu[tab.."tab"]:setStyleSheet(  [[ background-color: orange]] )
+ end
+
+function menu.onleave(tab)
+  menu[tab.."tab"]:setStyleSheet(  [[ background-color: ]]..menu.color4..[[ ]] )
+	menu[menu.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] )
+end
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Tells MiniWindows</name>
+					<packageName></packageName>
+					<script>
+chatWin = Geyser.MiniConsole:new({
+  name="chatWin",
+  x="1%", y="1%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = true,
+  fontSize = 10,
+  width="98%", height="98%",
+}, menu.footer)
+
+chatWin:setColor(0,0,0)
+clearWindow("chatWin")
+resetFormat()
+ chatWin:raise()
+--============================
+
+tellWin = Geyser.MiniConsole:new({
+  name="tellWin",
+  x="1%", y="1%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = true,
+  fontSize = 10,
+  width="98%", height="98%",
+}, menu.footer)
+
+tellWin:setColor(0,0,0)
+clearWindow("tellWin")
+resetFormat()
+-- tellWin:raise()
+-- ====================
+
+
+arvWin = Geyser.MiniConsole:new({
+  name="arvWin",
+  x="1%", y="1%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = true,
+  fontSize = 10,
+  width="98%", height="98%",
+}, menu.footer)
+
+arvWin:setColor(0,0,0)
+clearWindow("arvWin")
+resetFormat()
+-- arvWin:raise()</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>clearTabs</name>
+					<packageName></packageName>
+					<script>function clearTabs() 
+
+ menu['CHATStab']:setStyleSheet(       [[ background-color: rgb(60,60,60)  ]] )
+ menu['TELLStab']:setStyleSheet(       [[ background-color: rgb(60,60,60)  ]] )
+ menu['ARRIVALStab']:setStyleSheet(    [[ background-color: rgb(60,60,60)  ]] )
+ 
+end
+
+function clearTabs2() 
+
+ menu2['INFO1tab']:setStyleSheet(       [[ background-color: rgb(60,60,60)  ]] )
+ menu2['INFO2tab']:setStyleSheet(       [[ background-color: rgb(60,60,60)  ]] )
+ menu2['INFO3tab']:setStyleSheet(       [[ background-color: rgb(60,60,60)  ]] )
+ 
+end
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>gauge01</name>
+					<packageName></packageName>
+					<script>
+right_label_bot = Geyser.Label:new({
+  name = "right_label_bot",
+  x = "1%", y = "80%",
+  width = "98%",
+  height = "23%",
+},right_container_bottom)
+
+right_label_bot:setStyleSheet([[
+  background-color: black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+	font-size: 4px;
+]])
+
+-- =============== Left Gauges =============================
+
+hp_bar = Geyser.Gauge:new({
+  name="h_bar",
+  x="5%", y="0%",
+  width="43%", height="35%",	
+	fontSize = 13,
+},right_label_bot)
+
+hp_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+     stop: 0 #999, stop: 0.1 #620004,  stop: 0.5 #f20d3b, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 1px;
+		
+]])
+
+hp_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 1px;
+]])
+
+hp_bar:setValue(100,100)
+-- =================================
+-- ======== STAM ===================
+
+st_bar = Geyser.Gauge:new({
+  name="st_bar",
+  x="5%", y="40%",
+  width="43%", height="35%",
+	fontSize = 13,
+},right_label_bot)
+
+st_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+      stop: 0 #999, stop: 0.1 #620004,  stop: 0.5 #fb790e, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st_bar:setValue(100,100)
+-- =============================
+
+-- ======== mana =================
+
+mn_bar = Geyser.Gauge:new({
+  name="mn_bar",
+  x="5%", y="80%",
+  width="43%", height="35%",
+	fontSize = 13,
+},right_label_bot)
+
+mn_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: , y1: 0, x2: 0, y2: 1,stop: 0 #467387,
+    stop: 0 #999, stop: 0.1 #620004,  stop: 0.5 #f9e51c, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn_bar:setValue(100,100)
+
+-- =========== right gauges ======================
+
+
+hp2_bar = Geyser.Gauge:new({
+  name="h2_bar",
+  x="53%", y="0%",
+  width="43%", height="35%",
+	fontSize = 13,
+},right_label_bot)
+
+hp2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+     stop: 0 #999, stop: 0.1 #620004,  stop: 0.5 #b00dea, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+hp2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+hp2_bar:setValue(100,100)
+-- =================================
+-- ======== STAM ++++++++++++++++++
+
+st2_bar = Geyser.Gauge:new({
+  name="st2_bar",
+  x="53%", y="40%",
+  width="43%", height="35%",
+	fontSize = 13,
+},right_label_bot)
+
+st2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+      stop: 0 #999, stop: 0.1 #620004,  stop: 0.5 #0d8bea, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st2_bar:setValue(100,100)
+-- =============================
+
+-- ======== mana ++++++++++++++++++
+
+mn2_bar = Geyser.Gauge:new({
+  name="mn2_bar",
+  x="53%", y="80%",
+  width="43%", height="35%",
+	fontSize = 13,
+},right_label_bot)
+
+mn2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: , y1: 0, x2: 0, y2: 1,stop: 0 #467387,
+    stop: 0 #999, stop: 0.1 #620004, stop: 0.5 #19f07e, stop: 1 #620004);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 0, y2: 0,
+     stop: 0 #3d787f, stop: .09 #054c54, stop: .16 #004147, stop: .23 #032e33, stop: .44 #00233a, stop: .71 #1f004c, stop: 1 #07003a );
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn2_bar:setValue(100,100)</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Icon names</name>
+					<packageName></packageName>
+					<script>function setIcons()
+head = string.format( [[&lt;p align="center" style="color:cyan;font-size: 12px;"&gt;]])
+tail = string.format( [[ &lt;/p&gt; ]])
+
+
+GUI.Icon_1:echo(head.."CON"..tail)
+GUI.Icon_2:echo(head.."FIREBALL"..tail)
+GUI.Icon_3:echo(head.."GETALL"..tail)
+GUI.Icon_4:echo(head.."ANALYZ"..tail)
+GUI.Icon_5:echo(head.."SLAP"..tail)
+GUI.Icon_6:echo(head.."GROUP"..tail)
+GUI.Icon_7:echo(head.."KILLZEL"..tail)
+GUI.Icon_8:echo(head.."THINK"..tail)
+GUI.Icon_9:echo(head.."TP-trd"..tail)
+GUI.Icon_10:echo(head.."Trades"..tail)
+GUI.Icon_11:echo(head.."HomeDir"..tail)
+GUI.Icon_12:echo(head.."TP"..tail)
+end</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Tabs 2</name>
+					<packageName></packageName>
+					<script>menu2 = menu2 or {
+  tabs   = {"INFO1","INFO2","INFO3"},
+  colorR = "rgb(75,0,130)",
+  colorG = "rgb(100,150,100)",
+	colorB = "rgb(100,100,150)",
+	color4 = "rgb(60,60,60)",
+  width  = "20%",
+  height = "40%",
+}
+-- menu2.current empty for now ( till called?)
+menu2.current = menu2.current or menu2.tabs[1]
+menu2.old = menu2.old or menu2.tabs[1]
+
+-- ----------------------------
+
+xTab = xTab or menu2.tabs[1]
+yTab = yTab or menu2.tabs[2]
+zTab = zTab or menu2.tabs[3]
+
+
+
+-- --------- header for tabs--------------
+
+menu2.header = Geyser.HBox:new({
+  name = "menu2.header",
+  x = "0%", y = "0%",
+  width = "100%",
+  height = "10%",
+},right_container_bottom)
+
+
+-- ---------Footer for content-----------------
+
+menu2.footer = Geyser.Label:new({
+  name = "menu2.footer",
+  x = "0%", y = "10%",
+  width = "100%",
+  height = "68%",
+},right_container_bottom)
+-- --------------------
+
+menu2.footer:setStyleSheet([[
+  background-color: ]]..menu2.colorR..[[;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+]])
+-- ---------------------------------
+
+
+
+-- ----------------------------
+-- ========================================================
+
+for k,v in pairs(menu2.tabs) do
+
+ menu2[v.."tab"] = Geyser.Label:new({
+    name = "menu2."..v.."tab",
+  },menu2.header)
+-- ---------------------------
+
+ menu2[v.."tab"]:setStyleSheet([[
+    background-color: ]]..menu2.color4..[[;   
+    margin-right: 1px;
+    margin-left: 1px;
+  ]])
+-- --------------------	
+-- give tabs text and callback
+
+  menu2[v.."tab"]:echo("&lt;center&gt;"..v)
+	menu2[v.."tab"]:setClickCallback("menu2.click",v)	
+  menu2[v.."tab"]:setOnEnter("menu2.onenter",v)
+  menu2[v.."tab"]:setOnLeave("menu2.onleave",v)
+	
+	-- --------- BACKGROUNDS---------------------
+	
+
+ -- menu2[v]:hide()
+
+end
+-- =================================	
+
+-- chat tab set to blue to begin with
+  menu2[menu2.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] )
+	
+	-- ==============================================
+		
+function menu2.click(tab2) 
+  clearTabs2()
+	menu2.current = tab2 	
+ 
+	if( tab2 == "INFO1") then
+	 INFO1Win:raise()		 
+	 menu2['INFO1tab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	if( tab2 == "INFO2") then
+	 INFO2Win:raise()
+	  menu2['INFO2tab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	if( tab2 == "INFO3") then
+	 INFO3Win:raise()
+	  menu2['INFO3tab']:setStyleSheet(       [[ background-color: steelblue  ]] )
+	end
+	-- ----------------------------
+
+--	menu.old = menu.current		
+--	menu[menu.old..'tab']:setStyleSheet( [[ background-color: ]]..menu.color4..[[ ]] )	
+--  menu.current = tab 		
+	
+	-- echo(" got "..tab)
+--	menu[menu.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] ) 
+--  menu[menu.current]:show()
+
+end
+-- ------------------------
+
+
+function menu2.onenter(tab2)
+ menu2[tab2.."tab"]:setStyleSheet(  [[ background-color: orange]] )
+ end
+
+function menu2.onleave(tab2)
+  menu2[tab2.."tab"]:setStyleSheet(  [[ background-color: ]]..menu.color4..[[ ]] )
+	menu2[menu2.current..'tab']:setStyleSheet( [[ background-color: steelblue ]] )
+end
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Infos MiniWindows</name>
+					<packageName></packageName>
+					<script>
+INFO1Win = Geyser.MiniConsole:new({
+  name="INFO1Win",
+  x="1%", y="2%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = false,
+  fontSize = 10,
+  width="98%", height="95%",
+}, menu2.footer)
+
+INFO1Win:setColor(20,20,20)
+clearWindow("INFO1Win")
+resetFormat()
+ INFO1Win:raise()
+--============================
+
+INFO2Win = Geyser.MiniConsole:new({
+  name="INFO2Win",
+  x="1%", y="2%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = false,
+  fontSize = 10,
+  width="98%", height="95%",
+}, menu2.footer)
+
+INFO2Win:setColor(20,20,20)
+clearWindow("INFO2Win")
+resetFormat()
+-- INFO2Win:raise()
+-- ====================
+
+
+INFO3Win = Geyser.MiniConsole:new({
+  name="INFO3Win",
+  x="1%", y="2%",
+  autoWrap = true,
+  color = "cyan",
+  scrollBar = false,
+  fontSize = 10,
+  width="98%", height="95%",
+}, menu2.footer)
+
+INFO3Win:setColor(20,20,20)
+clearWindow("INFO3Win")
+resetFormat()
+-- INFO3Win:raise()</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>ComWindows</name>
+					<packageName></packageName>
+					<script>comWins   = {"COMS","TELLS","ARRIVALS"}</script>
+					<eventHandlerList />
+				</Script>
+			</ScriptGroup>
+			<ScriptGroup isActive="yes" isFolder="yes">
+				<name>Character Handling</name>
+				<packageName></packageName>
+				<script>db:create("Main", { Characters = {"Name", "Race", "Class"} })</script>
+				<eventHandlerList />
+				<Script isActive="yes" isFolder="no">
+					<name>handleGroups</name>
+					<packageName></packageName>
+					<script>
+login_data = login_data or {}
+
+-- ================
+
+if io.exists(getMudletHomeDir() .. "/login_data.lua") and table.is_empty(login_data) then
+    table.load(getMudletHomeDir() .. "/login_data.lua", login_data)
+end
+ 
+-- =========================================
+
+function acctSwitch(current)
+
+  if exists(current, "alias") == 0 then
+     permGroup(current, "alias", "Characters")
+  end
+  
+  if exists(current, "trigger") == 0 then
+     permGroup(current, "trigger", "Characters")
+  end
+
+  -- turn off all character groups 
+  for k,v in ipairs(login_data) do
+        name = string.format(v.a_name ) 
+    		disableTrigger(name)
+				disableAlias(name)	
+   end
+	 
+	  INFO1Win:echo("\n Loading Triggers... " ..char)
+	  enableTrigger(current)
+	  INFO1Win:echo("\n Loading Aliases.... " ..char)
+    enableAlias(current)	
+	 
+	 tempTimer(4, [[ 	  
+	   clearWindow("INFO1Win");
+		 INFO1Win:cecho("\n&lt;orange:black&gt;Ready...")
+	 ]] )
+
+end
+
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>showDB</name>
+					<packageName></packageName>
+					<script>function showdb()
+    for k,v in ipairs(login_data) do
+		   lognm =   string.format(v.a_name )  
+       INFO2Win:echo( " val: " ..lognm.."\n"  )		
+    end
+end</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Init</name>
+					<packageName></packageName>
+					<script> function init(char)
+
+ INFO1Win:echo("\nLoading Aliases... " ..char)
+ enableAlias(char)	 
+ 
+ init2(char)	
+end
+
+function init2(char2) 
+
+ INFO1Win:echo("\nLoading Triggers... " ..char2)	
+  enableTrigger(char2)	
+  enableTrigger(char2)	
+ 
+end</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>loadTable</name>
+					<packageName></packageName>
+					<script>login_data = login_data or {}
+if io.exists(getMudletHomeDir() .. "/login_data.lua") and table.is_empty(login_data) then
+    table.load(getMudletHomeDir() .. "/login_data.lua", login_data)
+end</script>
+					<eventHandlerList />
+				</Script>
+			</ScriptGroup>
+			<ScriptGroup isActive="yes" isFolder="yes">
+				<name>KEYS</name>
+				<packageName></packageName>
+				<script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external scripts --
+-------------------------------------------------
+</script>
+				<eventHandlerList />
+				<Script isActive="yes" isFolder="no">
+					<name>keys test</name>
+					<packageName></packageName>
+					<script> -- THESE WORK!
+-- local keyID = tempKey(mudlet.key.F8, [[echo("hi")]])
+-- local anotherKeyID = tempKey(mudlet.keymodifier.Control, mudlet.key.F8, [[echo("hello")]])
+-- ***bind Ctrl+Shift+W:***
+-- tempKey(mudlet.keymodifier.Control + mudlet.keymodifier.Shift, mudlet.key.W, [[send("jump")]])</script>
+					<eventHandlerList />
+				</Script>
+			</ScriptGroup>
+			<ScriptGroup isActive="yes" isFolder="yes">
+				<name>MAINS</name>
+				<packageName></packageName>
+				<script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external scripts --
+-------------------------------------------------
+</script>
+				<eventHandlerList />
+				<Script isActive="yes" isFolder="no">
+					<name>set bg highlight</name>
+					<packageName></packageName>
+					<script>function setBgColorAll( word, r, g, b )
+    i = 0
+    word_count = 1
+    while i &gt; -1 do
+        i = selectString(word, word_count)
+        if i == -1 then
+             return
+        end
+        word_count = word_count +1
+        setBgColor( r, g, b )
+    end
+  end</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>sysreg event</name>
+					<packageName></packageName>
+					<script>-- This is the function that will be called when the event is raised.
+-- "event" is set to the event name.
+-- "arg" is the argument(s) provided with raiseEvent/rasieGlobalEvent.
+-- "profile" - Is the profile name from where the raiseGlobalEvent where triggered from
+--             It is 'nil' if raiseEvent() was used.
+function onMyEvent(event, arg, profile)
+  echo("\nEvent: " .. event .. "\n")
+  echo("Arg  : " .. arg .. "\n")
+  -- If the event is not raised with raiseGlobalEvent() profile will be 'nil'
+  echo("Profile: " ..(profile or "Local").. "\n")
+end
+
+-- Register the event handler.
+ registerAnonymousEventHandler("my_event", "onMyEvent")
+</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>style change</name>
+					<packageName></packageName>
+					<script>registerAnonymousEventHandler("ssheetcheck", "appStyleSheetChangeEvent")
+raiseEvent("ssheetcheck", "sum arg")</script>
+					<eventHandlerList />
+				</Script>
+				<Script isActive="yes" isFolder="no">
+					<name>Init</name>
+					<packageName></packageName>
+					<script> home_path = getMudletHomeDir():gsub([[\]], [[/]])  
+	echo("\n \n Initializing....\nHome Directory: "..home_path.."\n")
+	echo("To stop seeing this msg, deavtivate the Init script \n \n")</script>
+					<eventHandlerList />
+				</Script>
+			</ScriptGroup>
+		</ScriptGroup>
+		<ScriptGroup isActive="yes" isFolder="yes">
+			<name>ATS_XMOD PKG</name>
+			<packageName>ATS_XMOD PKG</packageName>
+			<script></script>
+			<eventHandlerList />
+			<ScriptGroup isActive="yes" isFolder="yes">
+				<name>MAIN THEME</name>
+				<packageName></packageName>
+				<script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external scripts --
+-------------------------------------------------
+</script>
+				<eventHandlerList />
+				<Script isActive="yes" isFolder="no">
+					<name>Theme: Grape</name>
+					<packageName></packageName>
+					<script>local background_color_hover = "#4a305b"
+local background_color_lighter = "#767"
+setAppStyleSheet([[
+
+  QMainWindow {
+    background: ]]..background_color_lighter..[[;
+		border: 3px solid orange;
+  }
+	
+	QToolBar {
+    background: ]]..background_color_lighter..[[;
+  }
+	
+	 QToolBar QToolButton:!hover {
+    color: orange;
+  }
+	
+	QToolBar QToolButton:hover {
+    color: cyan;
+  }
+ 
+]])</script>
+					<eventHandlerList />
+				</Script>
+			</ScriptGroup>
+		</ScriptGroup>
+	</ScriptPackage>
+	<KeyPackage />
+	<VariablePackage>
+		<HiddenVariables />
+	</VariablePackage>
+</MudletPackage>
