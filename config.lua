@@ -1,1 +1,1 @@
-mpackage = "ats test 01"
+mpackage = "ats-test-01"
