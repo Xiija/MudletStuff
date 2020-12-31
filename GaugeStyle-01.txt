@@ -1,0 +1,196 @@
+-- beginstyle = 100,100,"<p align='center' style='color:orange;font-size: 18px; font-weight: bold;'>H: 100/100")
+
+right_label_bot = Geyser.Label:new({
+  name = "right_label_bot",
+  x = "0%", y = "74.5%",
+  width = "100%",
+  height = "26%",
+},right_container_bottom)
+
+right_label_bot:setStyleSheet([[
+  background-color: black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+	font-size: 4px;
+]])
+
+-- =============== Left Gauges =============================
+
+hp_bar = Geyser.Gauge:new({
+  name="h_bar",
+  x="5%", y="3%",
+  width="43%", height="20%",	
+	fontSize = 16,
+},right_label_bot)
+
+hp_bar.front:setStyleSheet([[    
+    background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 1px;
+		
+]])
+
+hp_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+    stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 1px;
+]])
+
+hp_bar:setValue(100,100,"<p align='center' style='color:cyan;font-size: 18px; font-weight: bold;'>HP: 100/100")
+-- hp_bar:setValue(..beginstyle..)
+
+-- =================================
+-- ======== STAM ===================
+
+st_bar = Geyser.Gauge:new({
+  name="st_bar",
+  x="5%", y="35%",
+  width="43%", height="20%",
+	fontSize = 12,
+},right_label_bot)
+
+st_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+     stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st_bar:setValue(100,100,"<p align='center' style='color:cyan;font-size: 18px; font-weight: bold;'>ST: 100/100")
+-- =============================
+
+-- ======== mana =================
+
+mn_bar = Geyser.Gauge:new({
+  name="mn_bar",
+  x="5%", y="68%",
+  width="43%", height="20%",
+	fontSize = 13,
+},right_label_bot)
+
+mn_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: , y1: 0, x2: 0, y2: 1,
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+     stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn_bar:setValue(100,100,"<p align='center' style='color:cyan;font-size: 18px; font-weight: bold;'>MN: 100/100")
+
+-- =========== right gauges ======================
+
+
+hp2_bar = Geyser.Gauge:new({
+  name="h2_bar",
+  x="53%", y="3%",
+  width="43%", height="20%",
+	fontSize = 13,
+},right_label_bot)
+
+hp2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+hp2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+    stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+hp2_bar:setValue(25,100,"<p align='center' style='color:black;font-size: 18px; font-weight: bold;'>ESS: 25/100")
+-- =================================
+-- ======== STAM ++++++++++++++++++
+
+st2_bar = Geyser.Gauge:new({
+  name="st2_bar",
+  x="53%", y="35%",
+  width="43%", height="20%",
+	fontSize = 13,
+},right_label_bot)
+
+st2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 0, x2: 0, y2: 1, 
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+    stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+st2_bar:setValue(100,100,"<p align='center' style='color:cyan;font-size: 18px; font-weight: bold;'>BLOOD: 100/100")
+-- =============================
+
+-- ======== mana ++++++++++++++++++
+
+mn2_bar = Geyser.Gauge:new({
+  name="mn2_bar",
+  x="53%", y="68%",
+  width="43%", height="20%",
+	fontSize = 13,
+},right_label_bot)
+
+mn2_bar.front:setStyleSheet([[background-color: QLinearGradient(x1: , y1: 0, x2: 0, y2: 1,
+    stop: 0 #fff, stop: 0.05 #222, stop: 0.1 #333, stop: 0.5 #666,stop: 0.9 #333, stop: 1 #222);
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn2_bar.back:setStyleSheet([[background-color: QLinearGradient(x1: 0, y1: 1, x2: 1, y2: 1,
+    stop: 0 red, stop: 0.25 red, stop: 0.50 orange, stop: 0.75 orange, stop: 1 green);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7;
+    padding: 3px;
+]])
+
+mn2_bar:setValue(100,100,"<p align='center' style='color:cyan;font-size: 18px; font-weight: bold;'>WEB: 100/100")
