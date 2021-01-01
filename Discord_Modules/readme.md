@@ -7,5 +7,6 @@ Includes code you can modify for the following...\
 • Send a text message to a webhook.\
 \
 How to make a webhook on your server?\
-https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks \
+<a href="https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks" target="_blank">Webhooks 101</a>
 
