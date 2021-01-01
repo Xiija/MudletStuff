@@ -23,7 +23,7 @@ Change the code in the 3 scripts that use a webhook to use your new webhook url.
  https://discordapp.com/api/webhooks/599286738644369409/oznnAtMO46Q1rjU_13GZasuoArN-h9yrUHwvU1Df05XYJiAyZbxlvDjs_yadayadayada
  
  The line in the scripts you need to change...  
-  local url = "https://discordapp.com/api/webhooks/xxx_your_webhook_url_goes_here_xxx"
+  local url = "https://discordapp.com/api/webhooks/xxx_your_webhook_url_xxx"
 
 <h4> Then you can test the aliases in the package...</h4>
 
