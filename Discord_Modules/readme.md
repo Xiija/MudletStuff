@@ -38,8 +38,7 @@ Change the code in the 3 scripts that use a webhook to use your new webhook url.
 • Send a text message to a webhook.\
    to use: dmsg -your text here- \
  ex: dmsg hello fellow gamers!\
- this will send the message to the webhook you have set in the accompanying function
- \
+ <em>this will send the message to the webhook you have set in the accompanying function</em>
 
  • Open the Mudlet Discord Server, Announce page with an alias.\
   to use: just type ... discord ... this will open the Mudlet Discord page, Announcements channel
