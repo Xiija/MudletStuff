@@ -15,6 +15,15 @@ For Help on the Mudlet Discord Server\Help channel\
 <h3> All these scripts and aliases can be modified however you want, these are just ideas on their use </h3>
 <h1> How to Use </h1>
 
+Make a webhook in a channel on your discord server ( see above )\
+Change the code in the 3 scripts that use a webhook to use your new webhook url.\
+
+ Webhook example:\
+ https://discordapp.com/api/webhooks/599286738644369409/oznnAtMO46Q1rjU_13GZasuoArN-h9yrUHwvU1Df05XYJiAyZbxlvDjs_yadayadayada
+ 
+ The line in the scripts you need to change...\  
+  local url = "https://discordapp.com/api/webhooks/xxx_your webhook url goes here_xxx"
+
 • Send an auction embed to a webhook.\
  to use: auc -itemname- -price- -number of items for sale- ( 3 args, no spaces )\
  ex: auc cats 20gold 3  
