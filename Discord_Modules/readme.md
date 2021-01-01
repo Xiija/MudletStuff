@@ -6,7 +6,9 @@ Includes code you can modify for the following...\
 • Send a group request embed to a webhook.\
 • Send a text message to a webhook.\
 \
+( right click these & open in a new tab )\
 How to make a webhook on your server?\
-( right click & open in a new tab )\
-<a href="https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks" target="_blank">Webhooks 101</a>
+<a href="https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks" target="_blank">Webhooks 101</a>\
+
+<a href="https://discord.com/channels/283581582550237184/283582068334526464">For help on the Mudlet Discord</a>
 
