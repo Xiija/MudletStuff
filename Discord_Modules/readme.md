@@ -16,7 +16,7 @@ For Help on the Mudlet Discord Server\Help channel\
 <h1> How to Use </h1>
 
 Make a webhook in a channel on your discord server ( see above )\
-Change the code in the 3 scripts that use a webhook to use your new webhook url.
+Change the code in the 3 scripts that use a webhook to use your new webhook url.\
 (script names:  Do Auction, Do Group, and msg2discord )
 
  Webhook example:\
