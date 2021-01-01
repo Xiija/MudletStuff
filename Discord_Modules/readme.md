@@ -25,7 +25,9 @@ Change the code in the 3 scripts that use a webhook to use your new webhook url.
   local url = "https://discordapp.com/api/webhooks/xxx_your_webhook_url_goes_here_xxx"
 
 <h4> Then you can test the aliases in the package...</h4>
+
 • Send an auction embed to a webhook.
+\
  to use: auc -itemname- -price- -number of items for sale- ( 3 args, no spaces )\
  ex: auc cats 20gold 3  
  
