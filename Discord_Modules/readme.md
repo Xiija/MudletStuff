@@ -16,15 +16,15 @@ For Help on the Mudlet Discord Server\Help channel\
 <h1> How to Use </h1>
 
 • Send an auction embed to a webhook.\
- to use: auc '<itemname> <price> <number of items for sale>' ( 3 args, no spaces )\
+ to use: auc -itemname- -price- -number of items for sale- ( 3 args, no spaces )\
  ex: auc cats 20gold 3  
  
  • Send a group request embed to a webhook.\
-   to use: groupme '<number of group members> <area to group in>'  ( 2 args, no spaces )\
+   to use: groupme -number of group members- -area to group in-  ( 2 args, no spaces )\
    ex: groupme 4-person Oblivion-Shores
 
 • Send a text message to a webhook.\
-   to use: dmsg '<your text here>' \
+   to use: dmsg -your text here- \
  ex: dmsg hello fellow gamers!\
  this will send the message to the webhook you have set in the accompanying function\
 
