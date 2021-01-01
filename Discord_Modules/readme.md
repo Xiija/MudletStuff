@@ -12,11 +12,9 @@ How to make a webhook on your server?\
 \
 For Help on the Mudlet Discord Server\Help channel\
 <a href="https://discord.com/channels/283581582550237184/283582068334526464">Mudlet Discord Server Help</a>
-\
 <h3> All these scripts and aliases can be modified however you want, these are just ideas on their use </h3>
-\
 <h1> How to Use </h1>
-\
+
 • Send an auction embed to a webhook.\
  to use: auc <itemname> <price> <number of items for sale> ( 3 args, no spaces )\
  ex: auc cats 20gold 3 \ 
