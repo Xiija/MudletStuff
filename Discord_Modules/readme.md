@@ -1,6 +1,6 @@
 A discord package for Mudlet.\
-![alt text](https://github.com/Xiija/MudletStuff/blob//Discord_Modules/image.jpg?raw=true)\
-![alt text](https://raw.githubusercontent.com/Xiija/MudletStuff/master/Discord_Modules/discwebhook-01-sm.png)\
+![alt text1](https://github.com/Xiija/MudletStuff/blob//Discord_Modules/image.jpg?raw=true)\
+![alt text2](https://raw.githubusercontent.com/Xiija/MudletStuff/master/Discord_Modules/discwebhook-01-sm.png)\
 Includes code you can modify for the following...\
 • Open the Mudlet Discord Server, Announce page with an alias.\
 • Send an auction embed to a webhook.\
