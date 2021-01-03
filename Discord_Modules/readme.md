@@ -13,6 +13,7 @@ How to make a webhook on your server?\
 For Help on the Mudlet Discord Server\Help channel\
 <a href="https://discord.com/channels/283581582550237184/283582068334526464">Mudlet Discord Server Help</a>
 <h3> All these scripts and aliases can be modified however you want, these are just ideas on their use </h3>
+This package is intended more for education purposes, and not as working code. 
 <h1> How to Use </h1>
 
 Make a webhook in a channel on your discord server ( see above )\
