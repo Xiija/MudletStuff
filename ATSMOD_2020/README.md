@@ -1,1 +1,3 @@
-The last attempt... i give up :P
+The last attempt... 
+this is all the files i have on my mudlet package for
+A Tempest Season, It's a mess, but mebbe someone can learn from it all :P
