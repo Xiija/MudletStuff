@@ -1,7 +1,7 @@
 A discord package for Mudlet.\
 ![alt text2](https://raw.githubusercontent.com/Xiija/MudletStuff/master/Discord_Modules/discwebhook-02-sm.png)\
 Includes code you can modify for the following...\
-• Open the Mudlet Discord Server, Announce page ( or any server channel )with an alias.\
+• Open the Mudlet Discord Server, Announce page ( or any server channel ) with an alias.\
 • Send an auction embed to a webhook.\
 • Send a group request embed to a webhook.\
 • Send a text message to a webhook.\
@@ -24,14 +24,14 @@ Change the code in the 3 scripts that use a webhook to use your new webhook url.
  https://discordapp.com/api/webhooks/599286738644369409/oznnAtMO46Q1rjU_13GZasuoArN-h9yrUHwvU1Df05XYJiAyZbxlvDjs_yadayadayada
  
  The line in the scripts you need to change...  
-  local url = "https://discordapp.com/api/webhooks/xxx_your_webhook_url_xxx"
+  local url = "Paste_Your_Webhook_Here"
 
 <h4> Then you can test the aliases in the package...</h4>
 
 • Send an auction embed to a webhook.
 \
  to use: auc -itemname- -price- -number of items for sale- ( 3 args, no spaces )\
- ex: auc cats 20gold 3  
+ ex: auc werecats 20gold 3  
  
  • Send a group request embed to a webhook.\
    to use: groupme -number of group members- -area to group in-  ( 2 args, no spaces )\
